@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f5f9;
+}
+
+/* NAVBAR */
+nav {
+    background-color: #1e40af;
+    color: white;
+    padding: 15px;
+}
+
+nav h1 {
+    margin-bottom: 10px;
+}
+
+nav a {
+    color: white;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+/* MAIN */
+main {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+/* CARD */
+
+
+
+.card-api {
+    background-color: white;
+    border-left: 5px solid rgb(0, 0, 145);
+    padding: 30px;
+    width: 350px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.card-api h2 {
+    margin-bottom: 20px;
+}
+
+.card-api p {
+    margin: 20px 0;
+}
+
+
+.card-penjelasan {
+    background-color: white;
+    border-left: 5px solid blue ;
+    padding: 30px;
+    width: 350px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.card-penjelasan h2 {
+    margin-bottom: 20px;
+}
+
+.card-penjelasan p {
+    margin-top: 20px;
+}
+.card-penjelasan {
+    margin: 20px 0;
+}
+
+.card-profil {
+    background-color: white;
+    border-left: 5px solid blue ;
+    padding: 30px;
+    width: 350px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    text-align: left;
+}
+
+.card-profil h2 {
+    margin-bottom: 20px;
+}
+
+.card-profil p {
+    margin-top: 20px;
+}
+.card-profil {
+    margin: 20px 0;
+}
+
+/* HR */
+.line {
+    border: 0;
+    height: 2px;
+    background: linear-gradient(to right, #2563eb, #1e40af);
+}
+/* HR */
+.line {
+    border: 0;
+    height: 2px;
+    background: linear-gradient(to right, #2563eb, #1e40af);
+}
+
+
+
+/* BUTTON */
+button {
+    padding: 10px 20px;
+    background-color: #2563eb;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #1e40af;
+}
+
+/* FOOTER */
+footer {
+    margin-top: 50px;
+    text-align: center;
+    padding: 15px;
+    background-color: #1e40af;
+    color: white;
+}
+
+@media (max-width: 600px) {
+    .card-api,
+    .card-1 {
+        max-width: 100%;
+    }
+
+    .card-container {
+        flex-direction: column;
+        align-items: center;
+    }
+}
