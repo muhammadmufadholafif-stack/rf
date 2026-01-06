@@ -17,12 +17,11 @@ Tampilan responsif (desktop & mobile)
 Logging sederhana menggunakan console.log()
 Website dapat diakses secara online melalui cloud
 
-🌐 Link Deployment
-
+🌐 Link Deployment & Link GitHub
 🔗 https://lksyeyyy.netlify.app/
+🔗https://github.com/muhammadmufadholafif-stack/rf.git
 
 🚀 Cara Menjalankan Project Secara Lokal
-
 Clone repository ini
 Buka folder project
 Jalankan menggunakan Live Server / browser
