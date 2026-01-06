@@ -78,24 +78,6 @@ main {
   justify-content: center;
 }
 
-.card-api {
-    background-color: white;
-    border-left: 5px solid rgb(0, 0, 145);
-    padding: 30px;
-    width: 350px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    text-align: center;
-}
-
-.card-api h2 {
-    margin-bottom: 20px;
-}
-
-.card-api p {
-    margin: 20px 0;
-}
-
 
 .card-penjelasan {
     background-color: white;
@@ -109,10 +91,13 @@ main {
 
 .card-penjelasan h2 {
     margin-bottom: 20px;
+    text-align: center;
 }
 
 .card-penjelasan p {
     margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: justify;
 }
 .card-penjelasan {
     margin: 20px 0;
