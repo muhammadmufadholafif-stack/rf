@@ -131,15 +131,6 @@ main {
     background: linear-gradient(to right, #2563eb, #1e40af);
 }
 
-.line {
-    border: 0;
-    height: 2px;
-    background: linear-gradient(to right, #2563eb, #1e40af);
-}
-
-
-
-
 button {
     padding: 10px 20px;
     background-color: #2563eb;
