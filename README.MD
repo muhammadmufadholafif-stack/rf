@@ -1,9 +1,7 @@
 📌 Deskripsi Proyek
-
 Website ini dibuat sebagai bagian dari keikutsertaan dalam Lomba Kompetensi Siswa (LKS) Ma’arif Tahun 2026 pada bidang Cloud Computing. Website menampilkan data dari API publik secara dinamis menggunakan Fetch API dan telah dideploy menggunakan layanan cloud hosting (Netlify).
 
 🛠️ Teknologi yang Digunakan
-
 HTML → Struktur halaman
 CSS → Desain dan tampilan responsif
 JavaScript → Interaksi dan logika aplikasi
@@ -28,25 +26,15 @@ Jalankan menggunakan Live Server / browser
 Pastikan koneksi internet aktif untuk API
 
 ⚠️ Kendala yang Dihadapi
-
 API tertentu mengalami kendala CORS
-
 Penyesuaian layout agar responsif di berbagai perangkat
-
 ✅ Solusi
-
 Mengganti API dengan API publik yang mendukung CORS
-
 Menggunakan Flexbox dan media query CSS
 
 👤 Identitas Peserta
-
 Nama: M. Mufadhol Afif
-
 Nomor Peserta: 131007
-
-Sekolah: STMI NYELLL
-
-Kompetensi Keahlian: TKJ
-
+Sekolah: SMK Islam 1 Blitar
+Kompetensi Keahlian: TKJ (Teknik Komputer dan Jaringan)
 Bidang Lomba: Cloud Computing
