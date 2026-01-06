@@ -1,8 +1,6 @@
 console.log("Web Berhasil Dimuat");
 
 function loadquotes() {
-    console.log("Mengambil quote dari API");
-
     fetch("https://v2.jokeapi.dev/joke/Any?type=single")
         .then(response => response.json())
         .then(data => {
